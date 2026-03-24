@@ -1,0 +1,11 @@
+pandas
+numpy
+xgboost
+prophet
+streamlit
+folium
+streamlit-folium
+faker
+scikit-learn
+plotly
+matplotlib
