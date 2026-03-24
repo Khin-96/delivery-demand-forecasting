@@ -9,3 +9,5 @@ faker
 scikit-learn
 plotly
 matplotlib
+shap
+cvxpy
